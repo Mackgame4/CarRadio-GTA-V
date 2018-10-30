@@ -1,5 +1,5 @@
 # CarRadio-GTA-V-PT
-Hello, new script here for you,enjoy.
+This script add real life radio and converte to the GTA V radio in game
 
 How to instal:
 Add "radio" to your "resources" folder
